@@ -1,1 +1,1 @@
-license yay
+license 3.0
